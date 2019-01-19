@@ -15,3 +15,7 @@
 # Testing a new policy.  We don't care about this one
 # because it can't hurt us.
 { "result": "FAIL", "id": "CVE-2018-1000026" }
+
+# xfail all the things!
+{ "result": "FAIL" }
+
