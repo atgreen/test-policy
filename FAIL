@@ -1,2 +1,5 @@
 # A fail is a fail
 { "result": "FAIL" }
+
+# JUnit errors will count as FAIL
+{ "report": "junit", "result": "error" }
