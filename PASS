@@ -2,5 +2,5 @@
 { "result": "PASS" }
 
 # JUnit calls them something else...
-{ "type": "junit", "result": "success" }
+{ "report": "junit", "result": "success" }
 
