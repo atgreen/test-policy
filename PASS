@@ -1,4 +1,6 @@
 # A pass is a pass
 { "result": "PASS" }
 
+# JUnit calls them something else...
+{ "type": "junit", "result": "success" }
 
