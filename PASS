@@ -1,6 +1,6 @@
 # A pass is a pass
 { "result": "PASS" }
 
-# JUnit calls them something else...
-{ "report": "junit", "result": "success" }
+# JUnit calls them something else -- with spelling error!
+{ "report": "junit", "result": "sucess" }
 
