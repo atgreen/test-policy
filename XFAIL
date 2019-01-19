@@ -3,6 +3,9 @@
 # Provide json pattern matchers for every XFAIL.  Meaning, match any
 # patterns for things we expect to fail and we'll ignore.
 
+# This does not apply because reasons.
+{ "result": "FAIL", "id": "CVE-2018-13405" }
+
 # Let's ignore this CVE if it fails...
 { "result": "FAIL", "id": "CVE-2018-10881" }
 
