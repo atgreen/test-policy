@@ -14,8 +14,8 @@
 { "result": "FAIL", "id": "CVE-2018-1000026" }
 
 # Ignore low priority failures in Aqua scans.  Anything with a score
-# between 3 and 10 will get xfailed.
-{ "report": "^aqua", "score": "1..4" }
+# between 0 and 4 will get xfailed.
+{ "report": "^aqua", "score": "0..4" }
 
 
 
