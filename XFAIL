@@ -17,5 +17,6 @@
 # between 0 and 4 will get xfailed.
 { "report": "^aqua", "score": "0..4" }
 
-
+# We don't care about this python bug
+{ "report": "aqua", "result": "FAIL", "id": "RHSA-2018:2123" }
 
