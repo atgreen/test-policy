@@ -15,7 +15,7 @@
 
 # Ignore low priority failures in Aqua scans.  Anything with a score
 # between 3 and 10 will get xfailed.
-{ "report": "aqua", "score": "1..4" }
+{ "report": "^aqua", "score": "1..4" }
 
 
 
