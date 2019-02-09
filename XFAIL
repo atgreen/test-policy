@@ -6,8 +6,8 @@
 # This does not apply because reasons.
 { "result": "FAIL", "id": "CVE-2018-13405" }
 
-# Let's ignore this CVE if it fails...
-{ "result": "FAIL", "id": "CVE-2018-10881" }
+# Let's ignore this CVE if it fails before March 1, 2019
+{ "result": "FAIL", "id": "CVE-2018-10881" } March 1, 2019
 
 # Testing a new policy.  We don't care about this one
 # because it can't hurt us.
