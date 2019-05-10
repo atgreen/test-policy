@@ -20,3 +20,5 @@
 # We don't care about this python bug
 { "report": "aqua", "result": "FAIL", "id": "RHSA-2018:2123" }
 
+# Demo
+{ "report": "oscap-oval", "result": "FAIL", "id": "CVE-2018-10881" }
