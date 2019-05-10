@@ -22,3 +22,8 @@
 
 # Demo
 { "report": "oscap-oval", "result": "FAIL", "id": "CVE-2018-10881" }
+
+# Test with Jeff
+{ "report": "oscap-oval", "result": "FAIL", "id": "CVE-2018-10940" }
+
+
