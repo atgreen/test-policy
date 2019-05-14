@@ -24,6 +24,8 @@
 { "report": "oscap-oval", "result": "FAIL", "id": "CVE-2018-10881" }
 
 # Test with Jeff
-{ "report": "oscap-oval", "result": "FAIL", "id": "CVE-2018-10940" }
+{ "report": "oscap-oval", "result": "FAIL", "id": "CVE-2018-10940" }  2019-06-02
 
+# Test for presentation
+{ "result": "FAIL", "id": "RHSA-2018:2181" }
 
