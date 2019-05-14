@@ -29,3 +29,5 @@
 # Test for presentation
 { "result": "FAIL", "id": "RHSA-2018:2181" }
 
+# We don't care about this CVE
+{ "result": "FAIL", "id": "CVE-2018-10940" }
