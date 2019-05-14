@@ -31,3 +31,7 @@
 
 # We don't care about this CVE
 { "result": "FAIL", "id": "CVE-2018-10940" }
+
+# After consulting with security and Red Hat, we've determined that this is OK.
+{ "result": "FAIL", "id": "CVE-2018-10902" }
+
