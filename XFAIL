@@ -38,4 +38,6 @@
 # This is related to EXT4, but we are using XFS, not EXT4
 { "result": "FAIL", "id": "CVE-2018-10883" }
 
+# This is also a non-empty line.
+
 # This is a non-empty line.
