@@ -5,4 +5,4 @@
 { "report": "junit", "result": "error" }
 
 # Tripwire call them Failed
-{ "report": "tripwire-pdf", "result": "Failed" }
+{ "report": "tripwire-pdf", "status": "Failed" }
