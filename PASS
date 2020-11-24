@@ -5,4 +5,4 @@
 { "report": "junit", "result": "sucess" }
 
 # Tripwire calls them something else
-{ "report": "tripwire-pdf", "result": "Passed" }
+{ "report": "tripwire-pdf", "status": "Passed" }
