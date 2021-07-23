@@ -41,3 +41,6 @@
 # This is also a non-empty line.
 
 # This is a non-empty line.
+
+# Ignore level 1 and 2 findings
+{ "report": "popeye", "level": "1..2" }
